@@ -1,0 +1,9 @@
+.spinner{
+    height: 30px;
+    width: 30px;
+    animation: spinner 0.7s linear infinite;
+}
+@keyframes spinner{
+    to{
+     }
+}
